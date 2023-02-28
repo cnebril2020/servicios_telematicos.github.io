@@ -1,0 +1,5 @@
+linea 1 del fichero
+linea 2 del fichero
+linea 3 del fichero
+
+Cadena nueva de texto
